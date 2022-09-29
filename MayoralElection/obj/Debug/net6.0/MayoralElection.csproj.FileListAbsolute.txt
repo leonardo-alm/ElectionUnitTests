@@ -1,0 +1,12 @@
+D:\Programação\LetsCode\WebFullStack\Modulo7\Aula3\MayoralElectionSolution\MayoralElection\bin\Debug\net6.0\MayoralElection.deps.json
+D:\Programação\LetsCode\WebFullStack\Modulo7\Aula3\MayoralElectionSolution\MayoralElection\bin\Debug\net6.0\MayoralElection.dll
+D:\Programação\LetsCode\WebFullStack\Modulo7\Aula3\MayoralElectionSolution\MayoralElection\bin\Debug\net6.0\MayoralElection.pdb
+D:\Programação\LetsCode\WebFullStack\Modulo7\Aula3\MayoralElectionSolution\MayoralElection\obj\Debug\net6.0\MayoralElection.csproj.AssemblyReference.cache
+D:\Programação\LetsCode\WebFullStack\Modulo7\Aula3\MayoralElectionSolution\MayoralElection\obj\Debug\net6.0\MayoralElection.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programação\LetsCode\WebFullStack\Modulo7\Aula3\MayoralElectionSolution\MayoralElection\obj\Debug\net6.0\MayoralElection.AssemblyInfoInputs.cache
+D:\Programação\LetsCode\WebFullStack\Modulo7\Aula3\MayoralElectionSolution\MayoralElection\obj\Debug\net6.0\MayoralElection.AssemblyInfo.cs
+D:\Programação\LetsCode\WebFullStack\Modulo7\Aula3\MayoralElectionSolution\MayoralElection\obj\Debug\net6.0\MayoralElection.csproj.CoreCompileInputs.cache
+D:\Programação\LetsCode\WebFullStack\Modulo7\Aula3\MayoralElectionSolution\MayoralElection\obj\Debug\net6.0\MayoralElection.dll
+D:\Programação\LetsCode\WebFullStack\Modulo7\Aula3\MayoralElectionSolution\MayoralElection\obj\Debug\net6.0\refint\MayoralElection.dll
+D:\Programação\LetsCode\WebFullStack\Modulo7\Aula3\MayoralElectionSolution\MayoralElection\obj\Debug\net6.0\MayoralElection.pdb
+D:\Programação\LetsCode\WebFullStack\Modulo7\Aula3\MayoralElectionSolution\MayoralElection\obj\Debug\net6.0\ref\MayoralElection.dll
